@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaveView">
+        <attr name="bBitmap" format="dimension" />
+        <attr name="rise"  format="boolean"/>
+        <attr name="duration"  format="dimension"/>
+        <attr name="originY" format="dimension" />
+        <attr name="wHeight" format="dimension" />
+        <attr name="wLength" format="dimension" />
+    </declare-styleable>
+</resources>
