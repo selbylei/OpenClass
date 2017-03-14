@@ -1,1 +1,1 @@
-include ':app', ':mdcard', ':waterwave', ':handlerrecode', ':handler_msg_system', ':besier', ':sqlite', ':fanxing', ':addview'
+include ':app', ':mdcard', ':waterwave', ':handlerrecode', ':handler_msg_system', ':besier', ':sqlite', ':fanxing', ':customcontainer'

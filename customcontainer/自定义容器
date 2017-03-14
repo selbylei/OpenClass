@@ -1,0 +1,35 @@
+零界点
+一行所有空间
+宽度>width  系统默认不显示  我们需要自动换行
+
+
+onMeasure() 测量
+onLayout（） 子控件进行排列
+
+
+自定义容器 需要考虑的是容器下的子控件如何放置
+
+
+自定义容器
+width，height 取决于子控件最大宽和高
+
+width  所有行中谁最宽，谁就是这个容器
+height 累加每一行的高度，每一行取最高的控件作为这一行的高度
+
+
+
+1.循环遍历子控件的宽度
+lineWidth+=childWidth;
+lineHeight = Math
+
+ 获取子控件的margin
+
+
+
+
+
+
+
+
+
+
